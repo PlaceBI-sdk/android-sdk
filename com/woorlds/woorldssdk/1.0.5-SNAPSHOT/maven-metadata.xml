@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.woorlds</groupId>
+  <artifactId>woorldssdk</artifactId>
+  <version>1.0.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160217.114445</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160217114445</lastUpdated>
+  </versioning>
+</metadata>
