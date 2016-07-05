@@ -3,11 +3,7 @@
   <groupId>com.woorlds</groupId>
   <artifactId>woorldssdk</artifactId>
   <versioning>
-<<<<<<< HEAD
-    <release>1.0.19</release>
-=======
-    <release>1.0.18</release>
->>>>>>> origin/master
+    <release>1.0.20</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3-SNAPSHOT</version>
@@ -26,16 +22,12 @@
       <version>1.0.13</version>
       <version>1.0.14</version>
       <version>1.0.15</version>
-<<<<<<< HEAD
-      <version>1.0.19</version>
-    </versions>
-    <lastUpdated>20160704072417</lastUpdated>
-=======
       <version>1.0.16</version>
       <version>1.0.17</version>
       <version>1.0.18</version>
+      <version>1.0.19</version>
+      <version>1.0.20</version>
     </versions>
-    <lastUpdated>20160626132707</lastUpdated>
->>>>>>> origin/master
+    <lastUpdated>20160704072417</lastUpdated>
   </versioning>
 </metadata>
