@@ -3,7 +3,7 @@
   <groupId>com.woorlds</groupId>
   <artifactId>woorldssdk</artifactId>
   <versioning>
-    <release>1.0.21</release>
+    <release>1.0.22</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3-SNAPSHOT</version>
@@ -28,7 +28,8 @@
       <version>1.0.19</version>
       <version>1.0.20</version>
       <version>1.0.21</version>
+      <version>1.0.22</version>
     </versions>
-    <lastUpdated>20160705113424</lastUpdated>
+    <lastUpdated>20160815120630</lastUpdated>
   </versioning>
 </metadata>
